@@ -31,6 +31,7 @@ This app provides a REST API for a food delivery app.
 
 This project was built with the following technologies:
 
+- [![Express][express]][express-url]
 - [![TypeScript][typescript]][typescript-url]
 
 ## Getting Started
@@ -44,6 +45,11 @@ $ cd pizza-shop-be
 
 # Install the dependencies
 $ npm install
+
+# Run the project in development mode
+$ npm run dev
+
+# The application should be running on port 3333
 ```
 
 ## License
@@ -60,5 +66,7 @@ This project is licensed under the terms of the MIT license. See [LICENSE](LICEN
 [issues-url]: https://github.com/jhonathanalencar/pizza-shop-be/issues
 [license-shield]: https://img.shields.io/github/license/jhonathanalencar/pizza-shop-be.svg?style=for-the-badge&labelColor=4b2428&color=ac7c59
 [license-url]: https://github.com/jhonathanalencar/pizza-shop-be/blob/main/LICENSE
+[express]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[express-url]: https://expressjs.com/
 [typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
