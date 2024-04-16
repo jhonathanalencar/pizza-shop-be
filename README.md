@@ -46,7 +46,9 @@ $ cd pizza-shop-be
 # Install the dependencies
 $ npm install
 
-# Configure the environment variables: Rename the .env.example file in this directory to .env (which will be ignored by git) and add your own values for all the environment variables.
+# Configure the environment variables:
+# Rename the .env.example file in this directory to .env (which will be ignored by git) and
+# add your own values for all the environment variables.
 $ cp .env.example .env
 
 # Run the project in development mode
